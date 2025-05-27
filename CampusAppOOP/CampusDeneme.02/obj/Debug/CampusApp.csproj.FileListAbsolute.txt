@@ -1,0 +1,15 @@
+C:\Users\anilu\source\repos\CampusDeneme.02\bin\Debug\CampusDeneme.02.exe.config
+C:\Users\anilu\source\repos\CampusDeneme.02\bin\Debug\CampusDeneme.02.exe
+C:\Users\anilu\source\repos\CampusDeneme.02\bin\Debug\CampusDeneme.02.pdb
+C:\Users\anilu\source\repos\CampusDeneme.02\obj\Debug\CampusApp.csproj.AssemblyReference.cache
+C:\Users\anilu\source\repos\CampusDeneme.02\obj\Debug\CampusDeneme._02.Contact.resources
+C:\Users\anilu\source\repos\CampusDeneme.02\obj\Debug\CampusDeneme._02.Message.resources
+C:\Users\anilu\source\repos\CampusDeneme.02\obj\Debug\CampusDeneme._02.PostShare.resources
+C:\Users\anilu\source\repos\CampusDeneme.02\obj\Debug\CampusDeneme._02.Register.resources
+C:\Users\anilu\source\repos\CampusDeneme.02\obj\Debug\CampusDeneme._02.MainPage.resources
+C:\Users\anilu\source\repos\CampusDeneme.02\obj\Debug\CampusDeneme._02.Profile.resources
+C:\Users\anilu\source\repos\CampusDeneme.02\obj\Debug\CampusDeneme._02.Properties.Resources.resources
+C:\Users\anilu\source\repos\CampusDeneme.02\obj\Debug\CampusApp.csproj.GenerateResource.cache
+C:\Users\anilu\source\repos\CampusDeneme.02\obj\Debug\CampusApp.csproj.CoreCompileInputs.cache
+C:\Users\anilu\source\repos\CampusDeneme.02\obj\Debug\CampusDeneme.02.exe
+C:\Users\anilu\source\repos\CampusDeneme.02\obj\Debug\CampusDeneme.02.pdb
